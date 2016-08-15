@@ -7727,7 +7727,7 @@ _.merge(object, other);
 
 <!-- div -->
 
-<h3 id="_mergewithobject-sources-customizer"><code>_.mergeWith(object, sources, customizer)</code></h3>
+<h3 id="_mergewithobject-sources-customizer"><code>_.mergeWith(object, [sources], customizer)</code></h3>
 [&#x24C8;](https://github.com/lodash/lodash/blob/4.15.0/lodash.js#L13118 "View in source") [&#x24C3;](https://www.npmjs.com/package/lodash.mergewith "See the npm package") [&#x24C9;][1]
 
 This method is like `_.merge` except that it accepts `customizer` which
